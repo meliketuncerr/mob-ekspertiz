@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MobEkspertiz</string>
+    <string name="buttona">Button</string>
+    <string name="hepsini_sil">HEPSINI SIL</string>
+    <string name="al">Çal</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="hakk_m_zda">Hakkımızda</string>
+    <string name="mobekspertiz_2019">©MobEkspertiz 2019</string>
+    <string name="beykent_niversitesi_bilgisayar_programc_l_s_n_f_rencileri_emre_serhat_melike_taraf_ndan_olu_turulmu_bir_android_uygulamad_r_mobekspertiz">Beykent Üniversitesi Bilgisayar Programcılığı Sınıfı Öğrencileri (Emre, Serhat, Melike) Tarafından Oluşturulmuş bir Android Uygulamadır MobEkspertiz.</string>
+    <string name="todo">TODO</string>
+</resources>
